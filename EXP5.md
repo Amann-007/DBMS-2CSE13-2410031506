@@ -1,4 +1,4 @@
-# EXPERIMENT-
+# EXPERIMENT-5
 # 01. Display the total number of employee working in the company.
  Query
 ~~~sql   
