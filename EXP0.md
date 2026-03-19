@@ -21,7 +21,7 @@ Q1. SHOWING DATABASES.
 Q2 . CREATE DATABASE WITH YOUR NAME. 
 ## <h4>Queries:</h4>
 ```sql
- CREATE DATABASE Priyanshuj; 
+ CREATE DATABASE Aman; 
 ```
 ## <h4>Output:</h4>
  ```sql
@@ -45,7 +45,7 @@ SHOW DATABASES;
 | mysql              |
 | performance_schema |
 | phpmyadmin         |
-| priyanshuj         |
+| Aman         |
 | test               |
 +--------------------+
 9 rows in set (0.056 sec)
@@ -54,7 +54,7 @@ SHOW DATABASES;
 Q4 . USE THE DATABASE THAT YOU HAVE CREATED.
 ## <h4>Queries:</h4>
 ```sql
-USE Priyanshuj;
+USE Aman;
 ```
 ## <h4>Output:</h4>
  ```sql
